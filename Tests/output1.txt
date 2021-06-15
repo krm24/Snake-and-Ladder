@@ -1,0 +1,403 @@
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 0 to 4
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 0 to 3
+Player 1 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 1 rolled a 2 and moved from 4 to 6
+Player 2 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 2 rolled a 1 and moved from 3 to 4
+Player 1 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 1 rolled a 1 and moved from 6 to 7
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 2 rolled a 4 and moved from 4 to 8
+Player 1 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 1 rolled a 1 and moved from 7 to 8
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 8 to 13
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 8 to 12
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 13 to 18
+Player 1 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 1 rolled a 3 and moved from 12 to 15
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 18 to 23
+Player 1 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 1 rolled a 2 and moved from 15 to 17
+Player 2 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 2 rolled a 1 and moved from 23 to 24
+Player 1 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 1 rolled a 3 and moved from 17 to 20
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 2 rolled a 6 and moved from 24 to 30
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 20 to 24
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 30 to 35
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 24 to 28
+Player 2 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 2 rolled a 2 and moved from 35 to 37
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 28 to 32
+Player 2 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 2 rolled a 2 and moved from 37 to 39
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 1 rolled a 6 and moved from 32 to 38
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 39 to 42
+Player 1 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 1 rolled a 1 and moved from 38 to 39
+Player 2 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 2 rolled a 1 and moved from 42 to 43
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 39 to 43
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 43 to 46
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 1 rolled a 5 and moved from 43 to 48
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 46 to 51
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 1 rolled a 6 and moved from 48 to 54
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 2 rolled a 6 and moved from 51 to 57
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 1 rolled a 5 and moved from 54 to 59
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 57 to 62
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 1 rolled a 6 and moved from 59 to 65
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 62 to 65
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 1 rolled a 6 and moved from 65 to 71
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 65 to 68
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 71 to 75
+Player 2 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 2 rolled a 2 and moved from 68 to 70
+Player 1 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 1 rolled a 3 and moved from 75 to 78
+Player 2 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 2 rolled a 1 and moved from 70 to 71
+Player 1 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 1 rolled a 3 and moved from 78 to 81
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 2 rolled a 5 and moved from 71 to 76
+Player 1 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 1 rolled a 1 and moved from 81 to 82
+Player 2 Rolled Dice :
+ ----- 
+|     |
+|  O  |
+|     |
+ -----
+Player 2 rolled a 1 and moved from 76 to 77
+Player 1 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 1 rolled a 2 and moved from 82 to 84
+Player 2 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 2 rolled a 3 and moved from 77 to 80
+Player 1 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 1 rolled a 2 and moved from 84 to 86
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 2 rolled a 6 and moved from 80 to 86
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|  O  |
+|O   O|
+ -----
+Player 1 rolled a 5 and moved from 86 to 91
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|O   O|
+|O   O|
+-----
+Player 2 rolled a 6 and moved from 86 to 92
+Player 1 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 1 rolled a 4 and moved from 91 to 95
+Player 2 Rolled Dice :
+ -----
+|O   O|
+|     |
+|O   O|
+ -----
+Player 2 rolled a 4 and moved from 92 to 96
+Player 1 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 1 rolled a 2 and moved from 95 to 97
+Player 2 Rolled Dice :
+ -----
+|    O|
+|     |
+|O    |
+ -----
+Player 2 rolled a 2 and moved from 96 to 98
+Player 1 Rolled Dice :
+ -----
+|    O|
+|  O  |
+|O    |
+ -----
+Player 1 rolled a 3 and moved from 97 to 100
+		=============================
+		||       GAME OVER!!!      ||
+		=============================
+Player 1 wins the game
